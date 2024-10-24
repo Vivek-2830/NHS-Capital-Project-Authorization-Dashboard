@@ -9,6 +9,11 @@ Short summary on functionality and used technologies.
 ## Used SharePoint Framework Version
 
 ![version](https://img.shields.io/badge/version-1.13-green.svg)
+![SPFx 1.14](https://img.shields.io/badge/SPFx-1.14-green.svg)
+![Node.js v14 | v12](https://img.shields.io/badge/Node.js-v14%20%7C%20v12-green.svg)
+![Compatible with SharePoint Online](https://img.shields.io/badge/SharePoint%20Online-Compatible-green.svg)
+![Compatible with SharePoint 2019](https://img.shields.io/badge/SharePoint%20Server%202019-Compatible-green.svg)
+![Does not work with SharePoint 2016 (Feature Pack 2)](https://img.shields.io/badge/SharePoint%20Server%202016%20(Feature%20Pack%202)-Incompatible-red.svg "SharePoint Server 2016 Feature Pack 2 requires SPFx 1.1")
 
 ## Applies to
 
@@ -44,6 +49,7 @@ Version|Date|Comments
 
 - Clone this repository
 - Ensure that you are at the solution folder
+- Project Installation
 - in the command-line run:
   - **npm install**
   - **gulp serve**
