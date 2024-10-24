@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "captial-authorization-form-client-side-solution",
+    "id": "f6f0d5e5-d658-4772-a4f2-66f74c3025c0",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "captial-authorization-form description"
+      },
+      "longDescription": {
+        "default": "captial-authorization-form description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "captial-authorization-form Feature",
+        "description": "The feature that activates elements of the captial-authorization-form solution.",
+        "id": "b3903a6a-4580-4afd-92c3-550798ca6bed",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/captial-authorization-form.sppkg"
+  }
+}

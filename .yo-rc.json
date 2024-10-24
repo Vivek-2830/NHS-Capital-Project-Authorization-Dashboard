@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "captial-authorization-form",
+    "libraryId": "f6f0d5e5-d658-4772-a4f2-66f74c3025c0",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "captial-authorization-form",
+    "solutionShortDescription": "captial-authorization-form description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
